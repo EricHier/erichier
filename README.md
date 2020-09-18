@@ -5,7 +5,7 @@ If you would like to contact me, feel free to use the provided mail address.
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erichier" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erichier&layout=compact" />
+  <!--img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erichier&layout=compact" /-->
 </p>
 
 <!--
