@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, EricHier! 
+I'm a computer science student @rwthaachenuniversity who is working on all kinds of projects. Feel free to take a look at (erichier.tech)[erichier.tech].
+
+If you would like to contact me, feel free to use the provided mail address.
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erichier" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erichier&layout=compact" />
+</p>
 
 <!--
 **EricHier/erichier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
